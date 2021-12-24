@@ -7,6 +7,6 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Bay&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/bayganzz?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=bayganzz&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/bayganzz?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
 </p>
 
